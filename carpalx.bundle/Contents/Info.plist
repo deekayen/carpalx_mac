@@ -5,7 +5,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.carpalx</string>
 	<key>CFBundleName</key>
-	<string>carpalx</string>
+	<string>Carpalx</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>KLInfo_CarpalxQ</key>
@@ -14,6 +14,13 @@
 		<string>org.sil.ukelele.keyboardlayout.carpalx.carpalxq</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
+	</dict>
+	<key>KLInfo_DHRLWB</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.carpalx.dhrlwb</string>
+		<key>TISIntendedLanguage</key>
+		<string>fil-PH</string>
 	</dict>
 	<key>KLInfo_De Correspondent 1</key>
 	<dict>
@@ -36,12 +43,26 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
+	<key>KLInfo_HDRLPW</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.carpalx.hdrlpw</string>
+		<key>TISIntendedLanguage</key>
+		<string>fil-PH</string>
+	</dict>
 	<key>KLInfo_Hogendoorn</key>
 	<dict>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.carpalx.hogendoorn</string>
 		<key>TISIntendedLanguage</key>
 		<string>nl</string>
+	</dict>
+	<key>KLInfo_JBKDMH</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.carpalx.jbkdmh</string>
+		<key>TISIntendedLanguage</key>
+		<string>fil-PH</string>
 	</dict>
 	<key>KLInfo_PBFMWJ</key>
 	<dict>
@@ -71,6 +92,13 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
+	<key>KLInfo_QHRPBE</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.carpalx.qhrpbe</string>
+		<key>TISIntendedLanguage</key>
+		<string>fil-PH</string>
+	</dict>
 	<key>KLInfo_QWKRFY</key>
 	<dict>
 		<key>TISInputSourceID</key>
@@ -91,6 +119,20 @@
 		<string>org.sil.ukelele.keyboardlayout.carpalx.tnwmlc</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
+	</dict>
+	<key>KLInfo_VURPYF</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.carpalx.vurpyf</string>
+		<key>TISIntendedLanguage</key>
+		<string>fil-PH</string>
+	</dict>
+	<key>KLInfo_WHRPBF</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.carpalx.whrpbf</string>
+		<key>TISIntendedLanguage</key>
+		<string>fil-PH</string>
 	</dict>
 </dict>
 </plist>
