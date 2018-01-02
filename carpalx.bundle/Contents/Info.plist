@@ -5,7 +5,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.carpalx</string>
 	<key>CFBundleName</key>
-	<string>Carpalx</string>
+	<string>carpalx</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>KLInfo_CarpalxQ</key>
